@@ -1,7 +1,7 @@
 # Проект «Кексобукинг»
 
-* Студент: [Игорь Алексеенко](https://htmlacademy.ru/profile/id100868).
-* Наставник: `Инструктор Кекс`.
+* Студент: [Евгений Щепотьев](https://htmlacademy.ru/profile/id125753).
+* Наставник: [Инструктор Кекс](https://htmlacademy.ru/static/img/404-keks.jpg).
 
 ### Немного о себе
 
